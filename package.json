@@ -1,0 +1,20 @@
+{
+  "name": "nlp_chat_analysis",
+  "version": "1.0.0",
+  "description": "Node js express char analysis data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "natural": "^6.8.0"
+  }
+}
